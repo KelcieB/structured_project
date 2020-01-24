@@ -3,7 +3,7 @@
 This project is about understanding fruit set in different species
 
 ##Author
-Dudu
+Dudu Meireles
 
 
 ## Data sources
